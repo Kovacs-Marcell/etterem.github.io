@@ -1,0 +1,58 @@
+body{
+    background-color: #211b18;
+}
+
+h1{
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+h2{
+    color: #FF9900;
+    text-align: center;
+}
+h5{
+    color: #FF9900;
+    font-size: 18px;
+	font-weight: bold;
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+    color: red;
+}
+
+td,th{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9900;
+	text-align: center;
+	display: run-in;
+	font-weight: bold;
+}
+
+table{
+    width: 99%;
+    border: 0;
+    align-items: center;
+}
+
+.menu{
+    text-align: center;
+    color: white;
+}
+
+.tablazat{
+    color: white;
+}
+
+.szin{
+    color: #FF9900;
+}
+
+p{
+    color: #FF9900;
+    text-align: center;
+}
